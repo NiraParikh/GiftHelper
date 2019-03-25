@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="com.gift.registry_Gift-Registry_war_1.0-SNAPSHOT">
+    
+    <test name="com.gift.repository.test suite">
+        <packages>
+            <package name="com.gift.repository.test"/>
+        </packages>
+    </test>
+
+</suite>
